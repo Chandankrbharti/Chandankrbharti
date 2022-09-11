@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandankrbharti
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning big data technologies
+- 🌱 I’m currently working as Technical Lead for Big data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 8093010726
